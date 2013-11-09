@@ -1,0 +1,1 @@
+﻿A simple C# code to capture screen and save to PNG file.
